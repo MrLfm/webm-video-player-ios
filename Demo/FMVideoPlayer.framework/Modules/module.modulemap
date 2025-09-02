@@ -1,0 +1,6 @@
+framework module FMVideoPlayer {
+  umbrella header "FMVideoPlayer.h"
+  export *
+
+  module * { export * }
+}
